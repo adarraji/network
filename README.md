@@ -2,7 +2,7 @@
 
 ## Copy running config from list of Arista and Cisco switches to TFTP server
 
-`copy_config_to_tftp.py` coppies running config from a list of Arista and Cisco switches to TFTP server. It also geenrates a output (log) file for each device after running the application. 
+`copy_config_to_tftp.py` copies running config from a list of Arista and Cisco switches to TFTP server. It also geenrates a output (log) file for each device after running the application. 
 
 To run the application
 
